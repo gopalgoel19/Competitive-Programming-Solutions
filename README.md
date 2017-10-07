@@ -1,6 +1,8 @@
 # Competitive-Programming
-Solutions of competitive programming problems solved by me on various websites. 
+Solutions of competitive programming problems on various websites. 
 
-The name of the file is the problem code on the respective website.
+Contribution Guidelines:
+1. The name of the file is the problem code on the respective website.
+2. Don't add your solution if the solution to the same problem already exist in the repo.
 
-Few codes maybe incomplete or incorrect. I am yet to solve them. 
+Very few codes maybe incomplete or incorrect. Kindly create an issue to correct them if you find one. 
