@@ -23,12 +23,6 @@ int main(){
 		mp[num].push_back(i);		
 	}
 	
-//	for(i=1;i<=n;i++){
-//		for(int j=0;j<mp[i].size();j++)
-//			cout<<mp[i][j]<<" ";
-//		cout<<endl;
-//	}
-	
 	for(i=1;i<=n;i++){
 		
 		if(!visited[i]){
